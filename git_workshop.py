@@ -13,7 +13,7 @@ def ur_mum(num_b):
 # both people should modify this function
 def func3(num_a, num_b):
     # do something with inputs and print something
-    num_c = num_a % num_b 
+    num_c = num_a + num_b 
     print("something")
     num_c = num_a - num_b
     return num_c
