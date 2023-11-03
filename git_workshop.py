@@ -13,10 +13,12 @@ def ur_mum(num_b):
 # both people should modify this function
 def func3(num_a, num_b):
     # do something with inputs and print something
-    print("placeholder output")
+    num_c = num_a + num_b 
+    print("something")
+    return num_c
 
 a = 1
 b = 1
-x = func1(a)
-y = func2(b)
+x = ur_mother(a)
+y = ur_mum(b)
 func3(x, y)
