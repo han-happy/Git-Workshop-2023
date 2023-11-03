@@ -6,7 +6,7 @@ def ur_mother(num_a):
     # placeholder return, replace with your own function
     return -1
 
-def func2(num_b):
+def ur_mum(num_b):
     # placeholder return, replace with your own function
     return -1
 
