@@ -2,7 +2,7 @@ import math
 
 # all functions should take in a numerical value and return a numerical value
 # rename your function
-def func1(num_a):
+def ur_mother(num_a):
     # placeholder return, replace with your own function
     return -1
 
